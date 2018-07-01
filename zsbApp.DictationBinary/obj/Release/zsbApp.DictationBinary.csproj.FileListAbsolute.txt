@@ -1,0 +1,10 @@
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\bin\Release\zsbApp.DictationBinary.exe.config
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\bin\Release\zsbApp.DictationBinary.exe
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\bin\Release\zsbApp.DictationBinary.pdb
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.Form1.resources
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.Properties.Resources.resources
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.csproj.GenerateResource.Cache
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.csproj.CoreCompileInputs.cache
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.exe
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.pdb
+E:\Code\GitHub\zsbApp.DictationBinary\zsbApp.DictationBinary\obj\Release\zsbApp.DictationBinary.csprojResolveAssemblyReference.cache
